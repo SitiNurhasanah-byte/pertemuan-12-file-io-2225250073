@@ -1,0 +1,15 @@
+REKAP NILAI MAHASISWA
+=====================
+Jumlah data valid: 5
+Rata-rata: 83.40
+Nilai minimum: 74.00
+Nilai maksimum: 92.00
+Jumlah lulus: 5
+Jumlah tidak lulus: 0
+
+Detail nilai valid:
+A001,85,Lulus
+A002,78,Lulus
+A003,92,Lulus
+A005,74,Lulus
+A006,88,Lulus
