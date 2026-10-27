@@ -81,7 +81,7 @@ Program tetap melanjutkan proses untuk data lainnya.
 | Ada baris kosong | Baris kosong dilewati | Sesuai | ✅ |
 | Nilai 60 | Dihitung sebagai lulus | Sesuai | ✅ |
 
-## Contoh Hasil Rekap
+## Hasil Rekap
 
 File `data/hasil_rekap.txt`:
 
